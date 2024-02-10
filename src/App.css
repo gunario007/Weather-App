@@ -1,3 +1,5 @@
+
+
 section{
   background-color:cadetblue;
   color: #ffffff;
@@ -22,7 +24,7 @@ section{
 }
 .buttons{
   background-color: transparent;
-  border: 2px solid #0011ff; /* Primary color */
+  border: 2px solid #0011ff; 
   color: #2600ff;
   border-radius: 5px;
 }
@@ -98,5 +100,3 @@ section{
 
     height: 10vh;
   }
-
-
